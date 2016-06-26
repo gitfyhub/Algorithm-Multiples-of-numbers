@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\bin\Debug\TestEnv.exe.config
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\bin\Debug\TestEnv.exe
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\bin\Debug\TestEnv.pdb
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\obj\Debug\TestEnv.exe
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\obj\Debug\TestEnv.pdb
+C:\Users\admin\Source\Repos\TestEnv\TestEnv\bin\Debug\MultipesOfNumbers.exe.config
+C:\Users\admin\Source\Repos\TestEnv\TestEnv\bin\Debug\MultipesOfNumbers.exe
+C:\Users\admin\Source\Repos\TestEnv\TestEnv\bin\Debug\MultipesOfNumbers.pdb
+C:\Users\admin\Source\Repos\TestEnv\TestEnv\obj\Debug\MultipesOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\TestEnv\TestEnv\obj\Debug\MultipesOfNumbers.exe
+C:\Users\admin\Source\Repos\TestEnv\TestEnv\obj\Debug\MultipesOfNumbers.pdb
+C:\Users\admin\Source\Repos\MultipesOfNumbers\TestEnv\bin\Debug\MultipesOfNumbers.exe.config
+C:\Users\admin\Source\Repos\MultipesOfNumbers\TestEnv\obj\Debug\MultipesOfNumbers.exe
+C:\Users\admin\Source\Repos\MultipesOfNumbers\TestEnv\obj\Debug\MultipesOfNumbers.pdb
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\bin\Debug\MultipesOfNumbers.exe.config
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\obj\Debug\MultipesOfNumbers.exe
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\obj\Debug\MultipesOfNumbers.pdb

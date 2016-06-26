@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\bin\Debug\TestEnv.exe.config
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\bin\Debug\TestEnv.exe
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\bin\Debug\TestEnv.pdb
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\obj\Debug\TestEnv.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\obj\Debug\TestEnv.exe
+C:\Users\admin\Desktop\PhilipsCapital\TestEnv\TestEnv\obj\Debug\TestEnv.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\bin\Debug\MultiplesOfNumbers.exe.config
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\bin\Debug\MultiplesOfNumbers.exe
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\bin\Debug\MultiplesOfNumbers.pdb
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\obj\Debug\MultiplesOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\obj\Debug\MultiplesOfNumbers.exe
+C:\Users\admin\Source\Repos\Algorithm-Multiples-of-3-and-5\TestEnv\obj\Debug\MultiplesOfNumbers.pdb
+C:\Users\admin\Source\Repos\MultiplesOfNumbers\MultiplesOfNumbers\bin\Debug\MultiplesOfNumbers.exe.config
+C:\Users\admin\Source\Repos\MultiplesOfNumbers\MultiplesOfNumbers\obj\Debug\MultiplesOfNumbers.exe
+C:\Users\admin\Source\Repos\MultiplesOfNumbers\MultiplesOfNumbers\obj\Debug\MultiplesOfNumbers.pdb
